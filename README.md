@@ -1,4 +1,3 @@
-# Exploratory Data Analysis on Play Store Apps
 
 <h1 align="center"> Exploratory Data Analysis on Play Store Apps</h1>
 
