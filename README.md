@@ -84,6 +84,7 @@ By doing these operations on the original dataset, we are ready with the data pi
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 5.	Challenges Faced:
+
 *	Reading the dataset and comprehending the problem statement.
 *	Examining the business KPIs for app development and devising a solution to the problem.
 *	Handling the error, duplicate and NaN values in the dataset.
