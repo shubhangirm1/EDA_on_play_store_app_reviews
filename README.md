@@ -1,7 +1,6 @@
 
 <h1 align="center"> Exploratory Data Analysis on Play Store Apps</h1>
 
-
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 1. Abstract:
